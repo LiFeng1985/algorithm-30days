@@ -4,9 +4,8 @@
 > **不写复杂代码，先理解算法是什么！**  
 > **预计时间：1.5-2 小时（含费曼输出）**
 
-
-📚 **项目地址：** https://github.com/Lee985-cmd/algorithm-30days  
-⭐ **如果对你有帮助，请给个 Star！**
+📚 **完整教程：** https://github.com/Lee985-cmd/algorithm-30days  
+⭐ **Star支持** | 💬 **提Issue** | 🔄 **Fork分享**
 
 ---
 
